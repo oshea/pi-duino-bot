@@ -1,0 +1,9 @@
+{
+  "web": true,
+  "devices": [
+    {
+      "serialNumber": "A8004ILA",
+      "className": "SensorDevice"
+    }
+  ]
+}
