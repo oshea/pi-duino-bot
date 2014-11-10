@@ -1,0 +1,21 @@
+120, 3000
+{ angle: 120, distance: 3000 }
+{ angle: 4, distance: 300 }
+{ 'angle': 4, 'distance': 300 }
+{ 'angle': 4, 'distance': 300 }
+{'angle': 4, 'distance': 300 }
+{angle: 4, distance: 300 }
+{angle: 4, distance: 300 }
+{angle: 4, distance: 300 }
+{angle: 4, distance: 300 }
+{angle: 4, distance: 300 }
+{angle: 4, distance: 300 }
+{angle: 4, distance: 300 }
+{"angle": 4, "distance": 300 }
+{"angle": 150, "distance": 400 }
+{"angle": 140, "distance": 400 }
+{"angle": 140, "distance": 400 }
+{"angle": 140, "distance": 400 }
+{"angle": 130, "distance": 400 }
+{"angle": 110, "distance": 400 }
+{"angle": 110, "distance": 300 }
